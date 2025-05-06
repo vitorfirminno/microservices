@@ -1,2 +1,2 @@
 # microservices
-estudo do microsserviços 
+estudo de microsserviços 
